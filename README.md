@@ -4,7 +4,7 @@
 
   - [Penetration Testing Report](https://github.com/bkweber99/Penetration-Testing-Report)
   - [Azure Web Services](https://github.com/bkweber99/Website-HTMLe)
-  - [Penetration Testing Report](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Splunk Security](https://github.com/bkweber99/Splunk-Security)
     
 
 <h2> 🤳 Connect with me:</h2>
