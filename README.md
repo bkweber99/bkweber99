@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
   - [Penetration Testing Report](https://github.com/bkweber99/Penetration-Testing-Report)
-  - [Azure Web Services](https://github.com/bkweber99/Website-HTMLe)
+  - [Azure Web Services](https://github.com/bkweber99/Website-HTML)
   - [Splunk Security](https://github.com/bkweber99/Splunk-Security)
     
 
